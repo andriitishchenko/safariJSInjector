@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Andrii T</string>
+	<key>Builder Version</key>
+	<string>12602.4.8</string>
+	<key>CFBundleDisplayName</key>
+	<string>safariJSInjector</string>
+	<key>CFBundleIdentifier</key>
+	<string>info.atfop.safariJSInjector</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Companion Bundle Identifier</key>
+	<array>
+		<string>atfop.info</string>
+	</array>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>injected.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>inject jQuerify to all pages</string>
+	<key>DeveloperIdentifier</key>
+	<string>J4NANQ9H36</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://github.com/andriitishchenko/safariJSInjector/info.plist</string>
+	<key>Website</key>
+	<string>https://github.com/andriitishchenko/safariJSInjector</string>
+</dict>
+</plist>
