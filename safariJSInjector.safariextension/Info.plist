@@ -47,7 +47,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://github.com/andriitishchenko/safariJSInjector/info.plist</string>
+	<string>https://github.com/andriitishchenko/safariJSInjector/blob/master/safariJSInjector.safariextension/Info.plist</string>
 	<key>Website</key>
 	<string>https://github.com/andriitishchenko/safariJSInjector</string>
 </dict>
